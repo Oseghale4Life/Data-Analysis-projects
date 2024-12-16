@@ -29,7 +29,11 @@ This is a project that tries to predicts students graduation and attrition rate 
 
   ![](Discont_uniport.png)
 
+-----
+   ![](stat_values.png)
 
+------
+   
   ![](Discountinued2.png)
 
   ![](rate_discontine_enroll.png)
