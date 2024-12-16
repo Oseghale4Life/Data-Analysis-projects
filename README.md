@@ -27,4 +27,4 @@ This is a project that tries to predicts students graduation and attrition rate 
 
   ## Visualizations 
 
-  
+  ![](Discont_uniport.png)
