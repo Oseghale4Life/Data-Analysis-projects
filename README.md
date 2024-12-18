@@ -40,9 +40,19 @@ This is a project that tries to predicts students graduation and attrition rate 
 
   ## Analysis
   The observation made upon completion of this project was that the dropout rate is having an upward trend and its being forecasted to go higher and later flatten out in coming years.
+ ## _NB:_
+  The type of forecasting technique used was the exponential smoothing forecasting technique.
 
 
   ## Conclusion/Recommendation
 
 
   This goal of the report was to bring to light the fact that over the years some students have tend to not finish their programs(Petroluem and Gas Engineering)  and that the numbers might increase in coming years. Hence, there is need to start paying closer attention to issues like this.
+
+## If I had more time
+
+Would have loved to carry out the forecasting usimg other techniques such as:
+- Naive method
+- Holt's method
+- Moving point Average etc.
+  
